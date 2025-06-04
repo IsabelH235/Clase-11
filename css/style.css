@@ -294,3 +294,12 @@ div.completo h1, div.medio h1{
     font-weight: bold
 }
 
+div.completo h3, div.medio h3{
+    margin-top:0;
+    font-weight: bold
+}
+
+div.completo dd, div.medio dd{
+    margin-top:0;
+    font-weight: bold
+}
