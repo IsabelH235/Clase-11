@@ -275,6 +275,7 @@ div.info div.medio{
     width:100%;
     }
 }
+
 div.info div.completo{
     width:100%;
     clear:both;
@@ -298,3 +299,8 @@ div.completo dd, div.medio dd{
     margin-top:0;
     font-weight: bold
 }
+
+div.completo img, div.medio img, div.completo object, div.medio object{
+    max-width: 100%
+}
+
